@@ -7,3 +7,7 @@ Modifications include volume normalization, trimming, and re-encoding.
 ## Contents
 
 - **[Audio/](Audio/)** - Modified background music tracks (MP3)
+
+## Contact
+
+If you have any feedback, questions, or support requests—whether about these assets or about the Rosary with Sacred Art app—please email us at [rosary.with.sacred.art@gmail.com](mailto:rosary.with.sacred.art@gmail.com).
