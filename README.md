@@ -7,6 +7,7 @@ Modifications include volume normalization, trimming, and re-encoding.
 ## Contents
 
 - **[Audio/](Audio/)** - Modified background music tracks (MP3)
+- **[Images/](Images/)** - Modified CC BY and CC BY-SA images (WebP)
 
 ## Contact
 
